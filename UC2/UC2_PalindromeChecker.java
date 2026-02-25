@@ -1,3 +1,5 @@
+// UC2: Hardcoded Palindrome Check
+
 public class UC2_PalindromeChecker {
     
     public static void main(String[] args) {

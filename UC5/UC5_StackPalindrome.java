@@ -1,5 +1,7 @@
 import java.util.Stack;
 
+// UC5: Stack-Based Method (LIFO)
+
 public class UC5_StackPalindrome {
     
     public static void main(String[] args) {

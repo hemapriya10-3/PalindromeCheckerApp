@@ -2,6 +2,8 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Stack;
 
+// UC6: Queue + Stack Hybrid Method
+
 public class UC6_QueueStackPalindrome {
     
     public static void main(String[] args) {
@@ -63,7 +65,7 @@ public class UC6_QueueStackPalindrome {
         
         // Compare: Queue gives forward order, Stack gives reverse order
         while (!queue.isEmpty()) {
-            if (queue.poll() != stack.pop()) {
+            if (!queue.poll().equals(stack.pop())) {
                 return false;
             }
         }
