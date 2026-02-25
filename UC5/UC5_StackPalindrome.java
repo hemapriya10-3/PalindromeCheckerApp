@@ -1,3 +1,5 @@
+package UC5;
+
 import java.util.Stack;
 
 // UC5: Stack-Based Method (LIFO)

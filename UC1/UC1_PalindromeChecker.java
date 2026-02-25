@@ -1,3 +1,5 @@
+package UC1;
+
 // UC1: Welcome Message Module
 
 public class UC1_PalindromeChecker {

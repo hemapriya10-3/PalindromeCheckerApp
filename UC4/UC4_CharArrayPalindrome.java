@@ -1,3 +1,5 @@
+package UC4;
+
 // UC4: Character Array Method
 
 public class UC4_CharArrayPalindrome {

@@ -1,3 +1,5 @@
+package UC2;
+
 // UC2: Hardcoded Palindrome Check
 
 public class UC2_PalindromeChecker {
